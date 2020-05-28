@@ -1,0 +1,15 @@
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.exe
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.csprojAssemblyReference.cache
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfoInputs.cache
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfo.cs
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.deps.json
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.json
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.runtimeconfig.dev.json
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.dll
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\sample.pdb
+C:\Users\Ranjith\Source\Repos\sample\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.csproj.CopyComplete
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.dll
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.pdb
+C:\Users\Ranjith\Source\Repos\sample\obj\Debug\netcoreapp3.1\sample.genruntimeconfig.cache
